@@ -17,4 +17,4 @@ Lakukan perintah pada tahap-tahap ini untuk menjalankan aplikasi nya :
 4. Selamat menggunakan!
 
 ## Catatan
-Untuk penjelasan lebih detail dapat dilihat pada [video ini](https://youtu.be/u6pqAO73AkQ).
+Untuk demonstrasi dan penjelasan lebih detail dapat dilihat pada [video ini](https://youtu.be/u6pqAO73AkQ).
